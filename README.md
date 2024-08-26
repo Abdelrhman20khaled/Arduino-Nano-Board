@@ -37,4 +37,4 @@ The hardware design files are provided in the `hardware/` directory. This includ
 To get started with this project, clone the repository and open the design files in your preferred PCB design software (e.g., KiCad, Eagle).
 
 ```bash
-git clone [https://github.com/yourusername/arduino-nano-design.git](https://github.com/Abdelrhman20khaled/Arduino-Nano-Board/tree/main)
+git clone [https://github.com/Abdelrhman20khaled/Arduino-Nano-Board/tree/main]
