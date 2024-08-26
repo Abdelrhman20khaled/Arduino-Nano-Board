@@ -10,11 +10,6 @@ This repository contains all the files and resources needed to design and build 
 - [Features](#features)
 - [Hardware Design](#hardware-design)
 - [Getting Started](#getting-started)
-- [Bill of Materials (BOM)](#bill-of-materials-bom)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
