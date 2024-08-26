@@ -1,6 +1,6 @@
 # Arduino Nano Board Design
 
-<p align="left">
+<p align="Right">
   <a href="https://skillicons.dev">
     <img width = "50px" hight= "50px"src="https://skillicons.dev/icons?i=arduino" />
   </a>
