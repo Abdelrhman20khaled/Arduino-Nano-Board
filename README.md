@@ -1,6 +1,13 @@
 # Arduino Nano Board Design
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,eclipse,matlab,arduino,raspberrypi,ai" />
+  </a>
+</p>
+
 Welcome to the Arduino Nano Board Design project! 
+
 This repository contains all the files and resources needed to design and build an Arduino Nano board from scratch.
 
 ## Table of Contents
