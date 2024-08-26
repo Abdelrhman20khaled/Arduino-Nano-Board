@@ -1,4 +1,4 @@
-# Arduino Nano Board Design <img src="https://skillicons.dev/icons?i=arduino" align="right" width="80">
+# Arduino Nano Board Design <img src="https://skillicons.dev/icons?i=arduino" align="right" width="100">
 
 Welcome to the Arduino Nano Board Design project! 
 
