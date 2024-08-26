@@ -2,7 +2,7 @@
 
 <p align="Center">
   <a href="https://skillicons.dev">
-    <img width = "50px" hight= "50px"src="https://skillicons.dev/icons?i=arduino" />
+    <img src="https://skillicons.dev/icons?i=arduino" />
   </a>
 </p>
 
