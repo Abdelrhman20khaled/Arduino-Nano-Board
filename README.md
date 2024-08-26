@@ -1,6 +1,7 @@
 # Arduino Nano Board Design
 
-Welcome to the Arduino Nano Board Design project! This repository contains all the files and resources needed to design and build an Arduino Nano board from scratch.
+Welcome to the Arduino Nano Board Design project! 
+This repository contains all the files and resources needed to design and build an Arduino Nano board from scratch.
 
 ## Table of Contents
 
